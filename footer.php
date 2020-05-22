@@ -10,7 +10,7 @@
  */
 
 ?>
-	<p><img src="<?php echo get_template_directory(); ?>/images/bg_blue.png" /></p>
+	<p><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/bg_blue.png" /></p>
 
 	</div><!-- #content -->
 
